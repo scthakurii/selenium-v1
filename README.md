@@ -24,8 +24,8 @@ Ensure the following tools and libraries are installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/lottery-results-scraper.git
-   cd lottery-results-scraper
+   git clone https://github.com/scthakurii/selenium-v1.git
+   cd selenium-v1
    ```
 
 2. Install dependencies:
