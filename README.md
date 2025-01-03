@@ -126,7 +126,5 @@ This script is provided for educational purposes only. Use it responsibly and en
 
 ## Author
 
-[Your Name](https://github.com/your-username)
-
-scthakurii
+[Sam JR](https://github.com/scthakurii)
 
